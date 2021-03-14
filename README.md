@@ -1,8 +1,6 @@
 # FAQTheme Theme
 
-![FAQTheme Theme](assets/faq-theme-screenshots.jpg)
-
-**FAQTheme** is a theme for [Grav CMS](http://github.com/getgrav/grav) of knowledgebase for companies. This theme is built with the [Spectre.css](https://picturepan2.github.io/spectre/) framework and provides a powerful base for developing your own themes. FAQTheme uses functionality that is only available in Grav 1.4+, as such you cannot run FAQTheme on earlier versions of Grav.
+**FAQTheme** is a theme for [Grav CMS](http://github.com/getgrav/grav) of knowledgebase for companies. This theme is built with the [Spectre.css] framework and provides a powerful base for developing your own themes. FAQTheme uses functionality that is only available in Grav 1.4+, as such you cannot run FAQTheme on earlier versions of Grav.
 
 ## Features
 
